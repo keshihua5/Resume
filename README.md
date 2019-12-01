@@ -1,2 +1,2 @@
 # My Resume
-<img src="https://github.com/keshihua5/resume/blob/master/Cloud, Robert.pdf">   
+https://github.com/keshihua5/resume/blob/master/Cloud,%20Robert.pdf
