@@ -5,17 +5,20 @@ Recently moved to Seattle from Beijing, China (where I've lived/worked for the l
 
 Here's what I bring to the table ([downloadable version](https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf)):
 
-[PROFILE](https://github.com/keshihua5/resume#profile)    
+- [PROFILE](https://github.com/keshihua5/resume#profile)    
 
-[SKILLS](https://github.com/keshihua5/resume#skills)    
+- [SKILLS](https://github.com/keshihua5/resume#skills)    
 
-[EXPERIENCE]( https://github.com/keshihua5/resume#experience)    
+- [EXPERIENCE]( https://github.com/keshihua5/resume#experience)    
 
-[UNITED STATES](https://github.com/keshihua5/resume#united-states)     
+- ​         [UNITED STATES](https://github.com/keshihua5/resume#united-states)
 
-[CHINA](https://github.com/keshihua5/resume#china)     
 
-[OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
+-    [CHINA](https://github.com/keshihua5/resume#china)     
+
+
+- [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
+
 
 ------
 
