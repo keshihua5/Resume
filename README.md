@@ -5,9 +5,6 @@ Recently moved to Seattle from Beijing, China (where I've lived/worked for 14.5 
 Worked 12.5 years as a Senior Technical Writer for Oracle Systems R&D Center, Beijing, and two years as a College/University English instructor.
 
 Living and working in China was a fantastic experience for me. Not only learned a lot about the culture, but professionally-speaking, my communication skills have greatly improved;  I speak fluent Mandarin Chinese.
----------------------------------------------------------------------------------------------------
-KEYWORDS: technical writing, copy editing, web content editing, documentation, HTML, DITA, Markdown, Adobe FrameMaker, MadCap Flare | DevOps, API documentation, XML, JSON, RESTful, C-style | IoT | GCP, AWS, Azure, Azure Stack | processes, procedures, project management, UML, BPMN, Agile Methodology, Rational Unified Process | GitHub, Slack, Confluence, Jira |  ScreenFlow, Camtasia, MS Office, MS Visio, Adobe Photoshop, Adobe Lightroom | macOS, Windows 10, command line | Chinese, Mandarin | Communications | Customer Service | HMDA | Compliance | MortgageFlex | Loan Processing
----------------------------------------------------------------------------------------------------
 
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
