@@ -17,7 +17,6 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 - [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
 
 > *Writing samples provided upon <A HREF="mailto:rtcloud55@gmail.com">request</A>*.
->
 
 ------
 
@@ -105,3 +104,6 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 - ["A Conversation"](https://vimeo.com/216641592/75255e335f)
 - [Yi Gong Yi Shan](https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be)  
 - [Seattle Art Museum: Kiji Festival](https://photos.google.com/share/AF1QipMcUsvjHf77aqac2PyIQlqXfO3OxdSu2nRquaGH3i5me5L1L53XQHHtWzbKl_NdRw?key=TVdBcEdsTmFoR0ItczVrR2JQM1N5NWItR0N6Tl9B)
+
+[^]: bfgfgfgfgfgfgfgfgfgfgfgf
+
