@@ -84,7 +84,7 @@ San Jose, California* | *February 2019* *–* *Present*
 
 ------
 
-#### Other Stuff
+## Other Stuff
 
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
