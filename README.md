@@ -74,5 +74,5 @@ San Jose, California* | *February 2019* *–* *Present*
 - Trained, developed, and supervised Chinese local-hire technical writers.     
 - Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed.   
 - Restructured, formatted, and standardized legacy documentation.    
-  Used multiple authoring tools.    
+- Used multiple authoring tools.    
 
