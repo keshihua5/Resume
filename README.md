@@ -10,7 +10,7 @@
 - Bilingual - Fluent Mandarin Chinese speaker.
 
 ------
-
+Skills
 |                  |                 |
 | ---------------- | --------------- |
 | Technical Skills | Personal Skills |
