@@ -3,11 +3,6 @@ I — love technology, research, writing, and words. I'm a "communicator" with e
 
 Recently moved to Seattle from Beijing, China (where I've lived/worked for the last 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/misc/rc_lor.pdf), and two years as a [College/University English instructor](https://www.youtube.com/watch?v=m34cB7ELO0s&feature=youtu.be). 
 
-... When I’m not trying to beat a deadline, I dabble in photography and videography:
-
-1. https://vimeo.com/216641592/75255e335f
-2. https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be  
-
 Here's what I bring to the table ([downloadable version](https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf)):
 
 ## PROFILE
@@ -87,3 +82,7 @@ San Jose, California* | *February 2019* *–* *Present*
 - Restructured, formatted, and standardized legacy documentation.    
 - Used multiple authoring tools.    
 
+... When I’m not trying to beat a deadline, I dabble in photography and videography:
+
+1. https://vimeo.com/216641592/75255e335f
+2. https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be  
