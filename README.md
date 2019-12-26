@@ -33,12 +33,12 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 
 |                              |                     |
 | ---------------------------- | ------------------- |
-| **Technical**         | **Personal** |
+| **Technical**                | **Personal**        |
 | GitHub, Markdown             | Leadership          |
 | Python                       | Teamwork            |
-| CircleCI, Jenkins, K8s       | Teamwork            |
+| CircleCI, Jenkins, K8s       | Communication       |
 | Adobe FrameMaker (with DITA) | Critical Thinking   |
-| Adobe Photoshop              | Innovation          |
+| Adobe Photoshop              | Flixibility         |
 | MS Office Suite/MS Visio     | Motivation          |
 | Google Analytics             | Creativity          |
 
