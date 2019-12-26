@@ -35,7 +35,7 @@
 
 ## EXPERIENCE
 
-### U.S.
+### United States
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 San Jose, California* | *February 2019* *–* *Present*
