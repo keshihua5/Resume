@@ -21,17 +21,17 @@
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 San Jose, California* | *February 2019* *–* *Present*
 
-- **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.
+- **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.     
 
-- Document REST APIs and SDKs for internal development systems.
+- Document REST APIs and SDKs for internal development systems.     
 
-- Implement systems and processes. Created and developed Canaveral Devops Runbook.
+- Implement systems and processes. Created and developed Canaveral Devops Runbook.     
 
-- Write release notes and other support documentation. Peer review other writers’ work.
+- Write release notes and other support documentation. Peer review other writers’ work.    
 
-- Gather information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.
+- Gather information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 
-- Gather and address feedback from multiple customer sources.
+- Gather and address feedback from multiple customer sources.   
 
 **Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**   
 *Jersey City, New Jersey* | *August 2018* *–* *November 2018*
