@@ -40,3 +40,6 @@ San Jose, California* | *February 2019* *–* *Present*
 - Gather data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
 - QA and regularly update cadences for a 100+ document repository.
 
+**Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)**
+
+*Beijing, China* | *April* *2004* *–* *October 2016*
