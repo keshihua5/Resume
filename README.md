@@ -105,5 +105,3 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 - [Yi Gong Yi Shan](https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be)  
 - [Seattle Art Museum: Kiji Festival](https://photos.google.com/share/AF1QipMcUsvjHf77aqac2PyIQlqXfO3OxdSu2nRquaGH3i5me5L1L53XQHHtWzbKl_NdRw?key=TVdBcEdsTmFoR0ItczVrR2JQM1N5NWItR0N6Tl9B)
 
-
-
