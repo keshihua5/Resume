@@ -82,6 +82,10 @@ San Jose, California* | *February 2019* *–* *Present*
 - Restructured, formatted, and standardized legacy documentation.    
 - Used multiple authoring tools.    
 
+------
+
+#### Other Stuff
+
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
 1. https://vimeo.com/216641592/75255e335f
