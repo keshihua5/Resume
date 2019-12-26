@@ -16,7 +16,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
   - [CHINA](https://github.com/keshihua5/resume#china)     
 - [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
 
-> *Writing samples provided upon <A HREF="mailto:rtcloud55@gmail.com">request</A>*.
+(*Writing samples available upon <A HREF="mailto:rtcloud55@gmail.com">request</A>*).
 
 ------
 
