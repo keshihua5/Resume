@@ -33,6 +33,5 @@ San Jose, California* | *February 2019* *–* *Present*
 
 - Gather and address feedback from multiple customer sources.
 
-**Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**
-
+**Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**   
 *Jersey City, New Jersey* | *August 2018* *–* *November 2018*
