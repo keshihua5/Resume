@@ -1,4 +1,4 @@
-## <A HREF="mailto:rtcloud55@gmail.com">ROBERT CLOUD</A>
+### ROBERT CLOUD
 
 ***I — love*** technology, research, writing, and words. I'm a "communicator" with extensive domestic/international experience creating and managing technical and non-technical documentation.
 
@@ -12,6 +12,8 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
   - [UNITED STATES](https://github.com/keshihua5/resume#united-states)
   - [CHINA](https://github.com/keshihua5/resume#china)     
 - [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
+
+Writing samples provided upon <A HREF="mailto:rtcloud55@gmail.com">request</A>
 
 ------
 
