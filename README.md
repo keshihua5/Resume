@@ -13,7 +13,6 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
   - [CHINA](https://github.com/keshihua5/resume#china)     
 - [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
 
-
 ------
 
 
