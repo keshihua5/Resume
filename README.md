@@ -36,7 +36,7 @@ San Jose, California* | *February 2019* *–* *Present*
 **Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**   
 *Jersey City, New Jersey* | *August 2018* *–* *November 2018*
 
-	Develop training materials in conjunction with engineering staff.
-	Coordinate, schedule, and perform classroom training for 1,100 users at different locales.
-	Instruct how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instruct and help resolve basic end-user troubleshooting issues.
-	Track end-user issues and escalate to Sr. IT staff as required.
+- Develop training materials in conjunction with engineering staff.
+  Coordinate, schedule, and perform classroom training for 1,100 users at different locales.
+- Instruct how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instruct and help resolve basic end-user troubleshooting issues.
+  Track end-user issues and escalate to Sr. IT staff as required.
