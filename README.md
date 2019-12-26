@@ -46,7 +46,7 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 #### UNITED STATES
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
-San Jose, California* | *February 2019* *–* *Present*
+*San Jose, California* | *February 2019* *–* *Present*
 
 - **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.     
 - Document REST APIs and SDKs for internal development systems.     
