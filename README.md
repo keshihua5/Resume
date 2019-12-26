@@ -1,4 +1,19 @@
-# [My Resume](https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf)
+# [My Resume](https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf)   
+I ‒ love technology, research, writing, and words. I'm a "communicator" with extensive domestic/international experience researching, writing, editing, proofreading, and designing technical and non-technical documentation.
+
+Recently moved to Seattle from Beijing, China (where I've lived/worked for 14.5 years). 
+Worked 12.5 years as a Senior Technical Writer for Oracle Systems R&D Center, Beijing, and two years as a College/University English instructor.
+
+Living and working in China was a fantastic experience for me. Not only learned a lot about the culture, but professionally-speaking, my communication skills have greatly improved;  I speak fluent Mandarin Chinese.
+---------------------------------------------------------------------------------------------------
+KEYWORDS: technical writing, copy editing, web content editing, documentation, HTML, DITA, Markdown, Adobe FrameMaker, MadCap Flare | DevOps, API documentation, XML, JSON, RESTful, C-style | IoT | GCP, AWS, Azure, Azure Stack | processes, procedures, project management, UML, BPMN, Agile Methodology, Rational Unified Process | GitHub, Slack, Confluence, Jira |  ScreenFlow, Camtasia, MS Office, MS Visio, Adobe Photoshop, Adobe Lightroom | macOS, Windows 10, command line | Chinese, Mandarin | Communications | Customer Service | HMDA | Compliance | MortgageFlex | Loan Processing
+---------------------------------------------------------------------------------------------------
+
+... When I’m not trying to beat a deadline, I dabble in photography and videography:
+
+1. https://vimeo.com/216641592/75255e335f
+2. https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be  
+
 ## PROFILE
 
 - Over ten years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and non-technical documentation. 
