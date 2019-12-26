@@ -1,3 +1,4 @@
+------
 # About Me  
 I — love technology, research, writing, and words. I'm a "communicator" with extensive domestic/international experience creating and managing technical and non-technical documentation.
 
