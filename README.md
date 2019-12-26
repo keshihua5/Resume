@@ -35,6 +35,8 @@
 
 ## EXPERIENCE
 
+### U.S.
+
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 San Jose, California* | *February 2019* *–* *Present*
 
@@ -61,6 +63,8 @@ San Jose, California* | *February 2019* *–* *Present*
 - Design and deliver documentation across disparate styles - from event handouts to highly technical whitepapers. Effectively convey customer-focused security concepts across all levels of expertise (developer, admin, novice).
 - Gather data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
 - QA and regularly update cadences for a 100+ document repository.
+
+### China
 
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)**   
 *Beijing, China* | *April* *2004* *–* *October 2016*
