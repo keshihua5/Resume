@@ -43,7 +43,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 ## EXPERIENCE
 
-#### UNITED STATES
+### UNITED STATES
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 *San Jose, California* | ***February 2019* *–* *Present***
@@ -76,7 +76,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 
 
-#### CHINA
+### CHINA
 
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)**   
 *Beijing, China* | ***April* *2004* *–* *October 2016***
