@@ -17,9 +17,7 @@
 
 ## EXPRIENCE
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 **Senior Technical Writer** **|** **netPolarity (Contractor)**
 San Jose, California* | *February 2019* *–* *Present*
 
@@ -34,20 +32,3 @@ San Jose, California* | *February 2019* *–* *Present*
 - Gather information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.
 
 - Gather and address feedback from multiple customer sources.
-=======
-**Senior Technical Writer** **|** **netPolarity (Contractor)**    
-San Jose, California* | *February 2019* *–* *Present*
-
->>>>>>> 43e9cdbbe8d52070b2860e53fe196af26dbeca9c
-=======
-**Senior Technical Writer** **|** **netPolarity (Contractor)**    
-San Jose, California* | *February 2019* *–* *Present*
-<<<<<<< HEAD
-
->>>>>>> 43e9cdbbe8d52070b2860e53fe196af26dbeca9c
-=======
->>>>>>> e1d4e61cfe27721cdcbd4e361e361cc463237b97
-=======
-**Senior Technical Writer** **|** **netPolarity (Contractor)**    
-San Jose, California* | *February 2019* *–* *Present*
->>>>>>> e1d4e61cfe27721cdcbd4e361e361cc463237b97
