@@ -34,9 +34,9 @@ San Jose, California* | *February 2019* *–* *Present*
 **Senior Technical Writer** **|** **Brickred Systems (Contractor)**       
 *Redmond, Washington* | *June 2018* *–* *August 2018*
 
-	Microsoft Azure Stack Customer Advisory Team (CAT) lead technical writer; central point of contact for primary source documentation.
-	Research, write, edit and localize content with strong customer-focus.
-	Design and deliver documentation across disparate styles - from event handouts to highly technical whitepapers. Effectively convey customer-focused security concepts across all levels of expertise (developer, admin, novice).
-	Gather data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
-	QA and regularly update cadences for a 100+ document repository.
+- Microsoft Azure Stack Customer Advisory Team (CAT) lead technical writer; central point of contact for primary source documentation.
+- Research, write, edit and localize content with strong customer-focus.
+- Design and deliver documentation across disparate styles - from event handouts to highly technical whitepapers. Effectively convey customer-focused security concepts across all levels of expertise (developer, admin, novice).
+- Gather data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
+- QA and regularly update cadences for a 100+ document repository.
 
