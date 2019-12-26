@@ -96,5 +96,5 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
-1. ["A Conversation"](https://vimeo.com/216641592/75255e335f)
-2. [Yi Gong Yi Shan](https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be)  
+- ["A Conversation"](https://vimeo.com/216641592/75255e335f)
+- [Yi Gong Yi Shan](https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be)  
