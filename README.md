@@ -8,7 +8,7 @@ Recently moved to Seattle from Beijing, China (where I've lived/worked for the l
 1. https://vimeo.com/216641592/75255e335f
 2. https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be  
 
-Here's what I bring to the table ([downloadable version]((https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf) )):
+Here's what I bring to the table ([downloadable version](https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf):
 
 ## PROFILE
 
