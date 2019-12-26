@@ -17,5 +17,5 @@
 
 ## EXPRIENCE
 
-**Senior Technical Writer** **|** **netPolarity (Contractor)**
+**Senior Technical Writer** **|** **netPolarity (Contractor)**    
 San Jose, California* | *February 2019* *–* *Present*
