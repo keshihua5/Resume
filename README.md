@@ -41,8 +41,6 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 
 ------
 
-
-
 ## EXPERIENCE
 
 #### UNITED STATES
