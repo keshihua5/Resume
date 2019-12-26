@@ -7,7 +7,9 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 
 [PROFILE](https://github.com/keshihua5/resume#profile)    
 [SKILLS](https://github.com/keshihua5/resume#skills)    
-[EXPERIENCE]( https://github.com/keshihua5/resume#experience)  
+[EXPERIENCE]( https://github.com/keshihua5/resume#experience) 
+  [UNITED STATES](https://github.com/keshihua5/resume#united-states)
+  [CHINA](https://github.com/keshihua5/resume#china)
 [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
 
 ## PROFILE
