@@ -29,9 +29,8 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 
 ------
 ## SKILLS
-| **Technical**                | **Technical**     |
+| **Technical**                | **Soft**     |
 | :--------------------------- | :---------------- |
-| **Technical**                | **Soft**          |
 | GitHub, Markdown             | Leadership        |
 | Python                       | Teamwork          |
 | CircleCI, Jenkins, K8s       | Communication     |
