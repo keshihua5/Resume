@@ -43,12 +43,12 @@ San Jose, California* | *February 2019* *–* *Present*
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)**   
 *Beijing, China* | *April* *2004* *–* *October 2016*
 
-Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
-Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
-Data center and networking technical background; can easily interact with engineers.     
-Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
-Trained, developed, and supervised Chinese local-hire technical writers.     
-Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed.   
-Restructured, formatted, and standardized legacy documentation.    
-Used multiple authoring tools.    
+- Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
+- Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
+- Data center and networking technical background; can easily interact with engineers.    
+- Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
+- Trained, developed, and supervised Chinese local-hire technical writers.     
+- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed.   
+- Restructured, formatted, and standardized legacy documentation.    
+  Used multiple authoring tools.    
 
