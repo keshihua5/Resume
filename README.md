@@ -22,13 +22,6 @@
 | Adobe Photoshop              | Innovation          |
 | MS Office Suite/MS Visio     | Motivation          |
 | Google Analytics             | Creativity          |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
 
 ------
 
