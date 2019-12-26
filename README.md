@@ -22,12 +22,6 @@
 | CircleCI, Jenkins, K8s       | Innovation          |
 | Google Analytics             | Motivation          |
 |                              | Creativity          |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
-|                              |                     |
 
 ------
 
