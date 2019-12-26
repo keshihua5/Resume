@@ -15,13 +15,20 @@
 |                              |                     |
 | ---------------------------- | ------------------- |
 | **Technical Skills**         | **Personal Skills** |
-| MS Office Suite/MS Visio     | Leadership          |
-| Adobe FrameMaker (with DITA) | Teamwork            |
-| Adobe Photoshop              | Teamwork            |
-| GitHub, Markdown             | Critical Thinking   |
-| CircleCI, Jenkins, K8s       | Innovation          |
-| Google Analytics             | Motivation          |
-|                              | Creativity          |
+| Python                       | Leadership          |
+| GitHub, Markdown             | Teamwork            |
+| CircleCI, Jenkins, K8s       | Teamwork            |
+| Adobe FrameMaker (with DITA) | Critical Thinking   |
+| Adobe Photoshop              | Innovation          |
+| MS Office Suite/MS Visio     | Motivation          |
+| Google Analytics             | Creativity          |
+|                              |                     |
+|                              |                     |
+|                              |                     |
+|                              |                     |
+|                              |                     |
+|                              |                     |
+|                              |                     |
 
 ------
 
