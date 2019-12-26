@@ -46,7 +46,7 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 #### UNITED STATES
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
-*San Jose, California* | *February 2019* *–* *Present*
+*San Jose, California* | ***February 2019* *–* *Present***
 
 - **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.     
 - Document REST APIs and SDKs for internal development systems.     
@@ -56,7 +56,7 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 - Gather and address feedback from multiple customer sources.   
 
 **Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**   
-*Jersey City, New Jersey* | *August 2018* *–* *November 2018*
+*Jersey City, New Jersey* | ***August 2018* *–* *November 2018***
 
 - Develop training materials in conjunction with engineering staff.
 - Coordinate, schedule, and perform classroom training for 1,100 users at different locales.
@@ -64,7 +64,7 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 - Track end-user issues and escalate to Sr. IT staff as required.
 
 **Senior Technical Writer** **|** **Brickred Systems (Contractor)**       
-*Redmond, Washington* | *June 2018* *–* *August 2018*
+*Redmond, Washington* | ***June 2018* *–* *August 2018***
 
 - **Microsoft Azure Stack Customer Advisory Team (CAT)** lead technical writer; central point of contact for primary source documentation.
 - Research, write, edit and localize content with strong customer-focus.
@@ -79,7 +79,7 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 #### CHINA
 
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)**   
-*Beijing, China* | *April* *2004* *–* *October 2016*
+*Beijing, China* | ***April* *2004* *–* *October 2016***
 
 - Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
 - Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
