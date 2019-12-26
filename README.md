@@ -15,7 +15,7 @@
 
 ------
 
-## EXPRIENCE
+## EXPERIENCE
 
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
