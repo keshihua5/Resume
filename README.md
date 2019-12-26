@@ -1,6 +1,6 @@
 <img src="https://github.com/keshihua5/resume/blob/master/images/me2.jpeg" width="120" height="180">
 
-# ROBERT CLOUD
+## ROBERT CLOUD
 
 ### Senior Technical Writer
 
@@ -25,7 +25,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 
 
-## PROFILE
+### PROFILE
 
 - Over ten years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and non-technical documentation. 
 - Over seven years’ documentation project management experience.  
@@ -36,7 +36,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 - Bilingual - Fluent Mandarin Chinese speaker.
 
 ------
-## SKILLS
+### SKILLS
 | **TECHNICAL**                | **SOFT**     |
 | :--------------------------- | :---------------- |
 | GitHub, Markdown             | Leadership        |
@@ -49,9 +49,9 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 ------
 
-## EXPERIENCE
+### EXPERIENCE
 
-### UNITED STATES
+#### UNITED STATES
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 *San Jose, California* | ***February 2019* *–* *Present***
@@ -84,7 +84,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 
 
-### CHINA
+#### CHINA
 
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)**   
 *Beijing, China* | ***April* *2004* *–* *October 2016***
@@ -100,7 +100,7 @@ Here's what I bring to the table ([downloadable .pdf](https://github.com/keshihu
 
 ------
 
-## OTHER STUFF
+### OTHER STUFF
 
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
