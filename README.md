@@ -1,5 +1,4 @@
-
-
+<img src="image.png" width="50" height="50">
 # ROBERT CLOUD
 
 ### Senior Technical Writer
