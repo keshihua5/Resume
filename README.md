@@ -1,4 +1,7 @@
+![me2](/Users/keshihua/Desktop/dec. 2018/me stuff/me2.jpeg)
+
 # ROBERT CLOUD
+
 ### Senior Technical Writer
 
 ------
