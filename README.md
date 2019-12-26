@@ -41,6 +41,5 @@ San Jose, California* | *February 2019* *–* *Present*
 - Instruct how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instruct and help resolve basic end-user troubleshooting issues.
 - Track end-user issues and escalate to Sr. IT staff as required.
 
-**Senior Technical Writer** **|** **Brickred Systems (Contractor)**
-
+**Senior Technical Writer** **|** **Brickred Systems (Contractor)**       
 *Redmond, Washington* | *June 2018* *–* *August 2018*
