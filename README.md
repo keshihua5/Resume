@@ -15,8 +15,8 @@
 |                              |                     |
 | ---------------------------- | ------------------- |
 | **Technical Skills**         | **Personal Skills** |
-| Python                       | Leadership          |
-| GitHub, Markdown             | Teamwork            |
+| GitHub, Markdown             | Leadership          |
+| Python                       | Teamwork            |
 | CircleCI, Jenkins, K8s       | Teamwork            |
 | Adobe FrameMaker (with DITA) | Critical Thinking   |
 | Adobe Photoshop              | Innovation          |
