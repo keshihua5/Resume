@@ -32,3 +32,7 @@ San Jose, California* | *February 2019* *–* *Present*
 - Gather information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.
 
 - Gather and address feedback from multiple customer sources.
+
+**Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**
+
+*Jersey City, New Jersey* | *August 2018* *–* *November 2018*
