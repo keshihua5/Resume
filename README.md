@@ -5,6 +5,11 @@ Recently moved to Seattle from Beijing, China (where I've lived/worked for the l
 
 Here's what I bring to the table ([downloadable version](https://github.com/keshihua5/resume/blob/master/images/Cloud%2C%20Robert.pdf)):
 
+[PROFILE]()    
+[SKILLS]()    
+[EXPERIENCE]()  
+[OTHER STUFF]()  
+
 ## PROFILE
 
 - Over ten years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and non-technical documentation. 
