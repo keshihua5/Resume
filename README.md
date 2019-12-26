@@ -29,7 +29,7 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 
 ------
 ## SKILLS
-| **Technical**                | **Soft**     |
+| **TECHNICAL**                | **SOFT**     |
 | :--------------------------- | :---------------- |
 | GitHub, Markdown             | Leadership        |
 | Python                       | Teamwork          |
