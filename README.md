@@ -18,7 +18,7 @@
 ## EXPRIENCE
 
 
-**Senior Technical Writer** **|** **netPolarity (Contractor)**
+**Senior Technical Writer** **|** **netPolarity (Contractor)**    
 San Jose, California* | *February 2019* *–* *Present*
 
 - **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.
