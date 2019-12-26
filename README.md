@@ -19,6 +19,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Senior Technical Writer** **|** **netPolarity (Contractor)**
 San Jose, California* | *February 2019* *–* *Present*
 
@@ -45,4 +46,8 @@ San Jose, California* | *February 2019* *–* *Present*
 
 >>>>>>> 43e9cdbbe8d52070b2860e53fe196af26dbeca9c
 =======
+>>>>>>> e1d4e61cfe27721cdcbd4e361e361cc463237b97
+=======
+**Senior Technical Writer** **|** **netPolarity (Contractor)**    
+San Jose, California* | *February 2019* *–* *Present*
 >>>>>>> e1d4e61cfe27721cdcbd4e361e361cc463237b97
