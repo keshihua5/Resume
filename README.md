@@ -29,16 +29,16 @@ Here's what I bring to the table ([downloadable version](https://github.com/kesh
 
 ------
 ## SKILLS
-|                              |                     |
-| ---------------------------- | ------------------- |
-| **Technical**                | **Soft**            |
-| GitHub, Markdown             | Leadership          |
-| Python                       | Teamwork            |
-| CircleCI, Jenkins, K8s       | Communication       |
-| Adobe FrameMaker (with DITA) | Critical Thinking   |
-| Adobe Photoshop              | Flixibility         |
-| MS Office Suite/MS Visio     | Motivation          |
-| Google Analytics             | Creativity          |
+| **Technical**                | **Technical**     |
+| :--------------------------- | :---------------- |
+| **Technical**                | **Soft**          |
+| GitHub, Markdown             | Leadership        |
+| Python                       | Teamwork          |
+| CircleCI, Jenkins, K8s       | Communication     |
+| Adobe FrameMaker (with DITA) | Critical Thinking |
+| Adobe Photoshop              | Flixibility       |
+| MS Office Suite/MS Visio     | Motivation        |
+| Google Analytics             | Creativity        |
 
 ------
 
