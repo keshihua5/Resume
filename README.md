@@ -40,8 +40,8 @@ Here's what I bring to the table ([downloadable .pdf](images/rc_resume.pdf)):
 | **TECHNICAL**                | **SOFT**     |
 | :--------------------------- | :---------------- |
 | GitHub, Markdown             | Leadership        |
-| Python                       | Teamwork          |
-| CircleCI, Jenkins, K8s       | Communication     |
+| Python (beginner-level)      | Teamwork          |
+| ZOOM, MS Teams, Google Meet  | Communication     |
 | Adobe FrameMaker (with DITA) | Critical Thinking |
 | Adobe Photoshop              | Flixibility       |
 | MS Office Suite/MS Visio     | Motivation        |
