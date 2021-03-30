@@ -10,7 +10,7 @@
 
 Moved to Seattle from Beijing, China (where I've lived/worked for the last 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/images/rc_lor.pdf), and two years as a [College/University English instructor](https://www.youtube.com/watch?v=m34cB7ELO0s&feature=youtu.be). 
 
-Here's what I bring to the table ([downloadable .pdf](images/rc_resume.pdf)):
+Here's what I bring to the table ([downloadable .pdf](images/rcloud_res.pdf)):
 
 - [PROFILE](https://github.com/keshihua5/resume#profile)    
 - [SKILLS](https://github.com/keshihua5/resume#skills)    
