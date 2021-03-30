@@ -54,7 +54,7 @@ Here's what I bring to the table ([downloadable .pdf](images/rc_resume.pdf)):
 #### UNITED STATES
 
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
-*San Jose, California* | ***February 2019* *–* *Present***
+*San Jose, California* | ***February 2019* *–* *May 2020***
 
 - **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.     
 - Document REST APIs and SDKs for internal development systems.     
