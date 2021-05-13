@@ -6,20 +6,6 @@ Monday, July 20, 2020
 
 ------
 
-**Contents**
-
-[Fix For Single Users](#fix-for-single-users)
-
-[Fix For Large Group Of Users](#fix-for-large-group-of-users)
-
-------
-
-## Fix For Single Users: 
-
-**Reference:**  
-[Offboarding Error: Target user nnnUser already has a primary mailbox](https://microsoft.sharepoint.com/teams/SRELivesite/Shared%20Documents/%20Migration%20Health%20Infra/Migration%20Health%20Infra/Failure%20Management%20-%20SOPs.one#Offboarding%20Error%20Target%20user%20%27nnnUser%27%20already%20has%20a%20primary&section-id=%7B596DF710-FE29-4DC7-BBF7-874255F6E1B0%7D&page-id=%7BF275AB93-0C47-4B8A-BB2E-2619425BB2D6%7D&end)  
-([Web view](https://microsoft.sharepoint.com/teams/SRELivesite/_layouts/OneNote.aspx?id=/teams/SRELivesite/Shared%20Documents/%20Migration%20Health%20Infra/Migration%20Health%20Infra&wd=target%28Failure%20Management%20-%20SOPs.one%7c596DF710-FE29-4DC7-BBF7-874255F6E1B0/Offboarding%20Error:%20Target%20user%20%27nnnUser%27%20already%20has%20a%20primary%7cF275AB93-0C47-4B8A-BB2E-2619425BB2D6/%29))
-
 ## Fix For Large Group Of Users: 
 Do the following steps:
 > Note This example is for a carentan machine\.
