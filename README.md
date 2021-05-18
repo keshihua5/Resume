@@ -43,7 +43,7 @@ Here's what I bring to the table ([downloadable .pdf](images/rcloud_res.pdf)):
 | Python (beginner-level)      | Teamwork          |
 | ZOOM, MS Teams, Google Meet  | Communication     |
 | Adobe FrameMaker (with DITA) | Critical Thinking |
-| Adobe Photoshop              | Flixibility       |
+| Adobe Photoshop              | Flexibility       |
 | MS Office Suite/MS Visio     | Motivation        |
 | Google Analytics             | Creativity        |
 
