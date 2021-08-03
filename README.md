@@ -27,11 +27,6 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 
 ### PROFILE
 
-"Innovative Technical Writer with over 10-years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and
-non-technical documentation. Detail-oriented editor with a commitment to accuracy and efficiency. Extensive experience using modern documentation approaches/tools (e.g., docs-as-code, structured authoring, markdown, MS Word/Google docs, MS Excel/Google spreadsheets, GitHub, Slack, Confluence, Jira, wikis, etc.). Experience working in Waterfall and Agile SDLCs. Fluent
-Mandarin Chinese speaker."
-
-
 - Over ten years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and non-technical documentation. 
 - Over seven years’ documentation project management experience.  
 - Use modern documentation approaches/tools (e.g., docs-as-code, structured authoring, markdown, GitHub, Slack, Confluence, Jira, wikis, etc.).
