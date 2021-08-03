@@ -6,6 +6,11 @@
 
 ------
 
+"Innovative Technical Writer with over 10-years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and
+non-technical documentation. Detail-oriented editor with a commitment to accuracy and efficiency. Extensive experience using modern documentation approaches/tools (e.g., docs-as-code, structured authoring, markdown, MS Word/Google docs, MS Excel/Google spreadsheets, GitHub, Slack, Confluence, Jira, wikis, etc.). Experience working in Waterfall and Agile SDLCs. Fluent
+Mandarin Chinese speaker."
+
+
 ***I — love*** technology, research, writing, and words. I'm a "communicator" with extensive domestic/international experience creating and managing technical and non-technical documentation.
 
 Moved to Seattle from Beijing, China (where I've lived/worked for the last 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/images/rc_lor.pdf), and two years as a [College/University English instructor](https://www.youtube.com/watch?v=m34cB7ELO0s&feature=youtu.be). 
