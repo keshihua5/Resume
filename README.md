@@ -1,4 +1,4 @@
-<img style="max-width:95%;border:3px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/me2.jpeg" width="120" height="180">
+<img style="max-width:95%;border:3px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/me2.jpeg" width="120" height="120">
 
 ## ROBERT CLOUD
 
