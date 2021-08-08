@@ -1,6 +1,6 @@
 <img style="max-width:95%;border:8px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/me2.jpeg" width="120" height="180">
 
-## ROBERT CLOUD
+## ROBERT CLOUD <img style="max-width:95%;border:8px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/covid-19.png" width="35" height="35">
 
 ### Senior Technical Writer
 
