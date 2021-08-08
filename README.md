@@ -10,13 +10,13 @@ If you are looking for an experienced Senior Technical Writer, I am the right fi
 
 The skills and qualifications that make me a great senior technical writer candidate for your company include:
 
-·   documentation creation/management
+- documentation creation/management
 
-·   communication
+- communication
 
-·   collaboration
+- collaboration
 
-·   problem-solving
+- problem-solving
 
 My strong communication skill is key to **optimizing teamwork** and providing the **best service to customers** on all levels. 
 
