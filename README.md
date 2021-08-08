@@ -26,7 +26,7 @@ In my previous position as **Senior Technical Writer** at Nutanix, I was respons
 
 Moved to Seattle from Beijing, China (where I've lived/worked for the last 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/images/rc_lor.pdf), and two years as a [College/University English instructor](https://www.youtube.com/watch?v=m34cB7ELO0s&feature=youtu.be). 
 
-Here's what I bring to the table ([downloadable .pdf](images/rcloud_res.pdf)):
+Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 
 - [PROFILE](https://github.com/keshihua5/resume#profile)    
 - [SKILLS](https://github.com/keshihua5/resume#skills)    
@@ -59,7 +59,7 @@ Here's what I bring to the table ([downloadable .pdf](images/rcloud_res.pdf)):
 | Python (beginner-level)      | Teamwork          |
 | ZOOM, MS Teams, Google Meet  | Communication     |
 | Adobe FrameMaker (with DITA) | Critical Thinking |
-| Adobe Photoshop              | Flixibility       |
+| Adobe Photoshop              | Flexibility       |
 | MS Office Suite/MS Visio     | Motivation        |
 | Google Analytics             | Creativity        |
 
