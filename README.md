@@ -119,6 +119,6 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
 - ["A Conversation"](https://vimeo.com/216641592/75255e335f)
-- [Yu Gong Yi Shan](https://www.youtube.com/watch?v=xtFQ3AC94yA&feature=youtu.be)  
+- [Yu Gong Yi Shan](https://youtu.be/RHiEyX-XFSg)  
 - [Seattle Art Museum: Kiji Festival](https://photos.google.com/share/AF1QipMcUsvjHf77aqac2PyIQlqXfO3OxdSu2nRquaGH3i5me5L1L53XQHHtWzbKl_NdRw?key=TVdBcEdsTmFoR0ItczVrR2JQM1N5NWItR0N6Tl9B)
 
