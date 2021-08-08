@@ -6,7 +6,7 @@
 
 ------
 
-If you are looking for an experienced Senior Technical Writer, I am the right fit for the position. I have the ability to work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
+If you are looking for an **experienced** Senior Technical Writer, I am the right fit for the position. I have the ability to work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
 
 The skills and qualifications that make me a great senior technical writer candidate for your company include:
 
