@@ -39,8 +39,6 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 
 ------
 
-
-
 ### PROFILE
 
 - Over ten years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and non-technical documentation. 
