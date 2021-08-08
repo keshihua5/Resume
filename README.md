@@ -6,7 +6,23 @@
 
 ------
 
-***I — love*** technology, research, writing, and words. I'm a "communicator" with extensive domestic/international experience creating and managing technical and non-technical documentation.
+If you are looking for an experienced Senior Technical Writer, I am the right fit for the position. I have the ability to work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
+
+The skills and qualifications that make me a great senior technical writer candidate for your company include:
+
+·   documentation creation/management
+
+·   communication
+
+·   collaboration
+
+·   problem-solving
+
+My strong communication skill is key to **optimizing teamwork** and providing the **best service to customers** on all levels. 
+
+My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier”, due to my ability to multitask.
+
+In my previous position as **Senior Technical Writer** at Nutanix, I was responsible for **creating/establishing a devops documentation solution** – from soup-to-nuts. My creating a departmental devops wiki (for **18 devops engineers**) led to **increased productivity and engagement**.
 
 Moved to Seattle from Beijing, China (where I've lived/worked for the last 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/images/rc_lor.pdf), and two years as a [College/University English instructor](https://www.youtube.com/watch?v=m34cB7ELO0s&feature=youtu.be). 
 
