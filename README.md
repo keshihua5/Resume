@@ -72,7 +72,7 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 
 - **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
 - Documented REST APIs and SDKs for internal development systems.     
-- Implemented systems and processes. Created and developed Canaveral Devops Runbook.     
+- Implemented systems and processes. Created and developed Canaveral DevOps Runbook.     
 - Wrote release notes and other support documentation. Peer review other writers’ work.    
 - Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 - Gathered and addressed feedback from multiple customer sources.   
