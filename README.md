@@ -70,29 +70,29 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 *San Jose, California* | ***February 2019* *–* *May 2020***
 
-- **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualize what developer documentation should mean and drive implementation.     
-- Document REST APIs and SDKs for internal development systems.     
-- Implement systems and processes. Created and developed Canaveral Devops Runbook.     
-- Write release notes and other support documentation. Peer review other writers’ work.    
-- Gather information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
-- Gather and address feedback from multiple customer sources.   
+- **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
+- Documented REST APIs and SDKs for internal development systems.     
+- Implemented systems and processes. Created and developed Canaveral Devops Runbook.     
+- Wrote release notes and other support documentation. Peer review other writers’ work.    
+- Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
+- Gathered and addressed feedback from multiple customer sources.   
 
 **Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**   
 *Jersey City, New Jersey* | ***August 2018* *–* *November 2018***
 
-- Develop training materials in conjunction with engineering staff.
-- Coordinate, schedule, and perform classroom training for 1,100 users at different locales.
-- Instruct how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instruct and help resolve basic end-user troubleshooting issues.
-- Track end-user issues and escalate to Sr. IT staff as required.
+- Developed training materials in conjunction with engineering staff.
+- Coordinated, scheduled, and performed classroom training for 1,100 users at different locales.
+- Instructed how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instructed and helped resolve basic end-user troubleshooting issues.
+- Tracked end-user issues and escalated to Sr. IT staff as required.
 
 **Senior Technical Writer** **|** **Brickred Systems (Contractor)**       
 *Redmond, Washington* | ***June 2018* *–* *August 2018***
 
 - **Microsoft Azure Stack Customer Advisory Team (CAT)** lead technical writer; central point of contact for primary source documentation.
-- Research, write, edit and localize content with strong customer-focus.
-- Design and deliver documentation across disparate styles - from event handouts to highly technical whitepapers. Effectively convey customer-focused security concepts across all levels of expertise (developer, admin, novice).
-- Gather data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
-- QA and regularly update cadences for a 100+ document repository.
+- Researched, wrote, edited and localized content with strong customer-focus.
+- Designed and delivered documentation across disparate styles - from event handouts to highly technical whitepapers. Effectively conveyed customer-focused security concepts across all levels of expertise (developer, admin, novice).
+- Gathered data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
+- QA and regularly updated cadences for a 100+ document repository.
 
 ------
 
@@ -108,7 +108,7 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 - Data center and networking technical background; can easily interact with engineers.    
 - Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
 - Trained, developed, and supervised Chinese local-hire technical writers.     
-- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed.   
+- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed. 
 - Restructured, formatted, and standardized legacy documentation.    
 - Used multiple authoring tools.    
 
