@@ -35,8 +35,6 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
   - [CHINA](https://github.com/keshihua5/resume#china)     
 - [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
 
-(*Writing samples available upon <A HREF="mailto:rtcloud55@gmail.com">request</A>.*)
-
 ------
 
 ### PROFILE
