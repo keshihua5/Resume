@@ -68,7 +68,7 @@ Here's what I bring to the table ([downloadable.pdf](images/RCloud_res.pdf)):
 **Senior Technical Writer** **|** **netPolarity (Contractor)**    
 *San Jose, California* | ***February 2019* *–* *May 2020***
 
-- **Nutanix, Seattle - Canaveral Team** lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
+- **Nutanix, Seattle** - Canaveral Team lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
 - Documented REST APIs and SDKs for internal development systems.     
 - Implemented systems and processes. Created and developed Canaveral DevOps Runbook.     
 - Wrote release notes and other support documentation. Peer review other writers’ work.    
