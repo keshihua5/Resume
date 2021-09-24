@@ -83,6 +83,12 @@ Here's what I bring to the table ([downloadable .pdf](images/RCloud_res.pdf)):
 - Instructed how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instructed and helped resolve basic end-user troubleshooting issues.
 - Tracked end-user issues and escalated to Sr. IT staff as required.
 
+**Senior Technical Writer** **|** **ALTA IT (Contractor)**       
+*Redmond, Washington* | ***June 2018* *–* *August 2018***
+
+- **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
+- Reviewed various documents for grammar, spelling, punctuation, syntax, accuracy and compliance with quality standards.
+
 **Senior Technical Writer** **|** **Brickred Systems (Contractor)**       
 *Redmond, Washington* | ***June 2018* *–* *August 2018***
 
