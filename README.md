@@ -1,4 +1,4 @@
-<img style="max-width:95%;border:8px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/me2.png" width="75" height="85">
+<img style="max-width:95%;border:8px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/me2.png" width="150" height="165">
 
 ## ROBERT CLOUD <img style="max-width:95%;border:8px solid black;" src="https://github.com/keshihua5/resume/blob/master/images/covid-19.png" width="35" height="35">
 
