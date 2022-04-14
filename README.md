@@ -8,18 +8,6 @@
 
 If you are looking for an **experienced** Senior Technical Writer, I am the right fit for the position. I have the ability to work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
 
-The skills and qualifications that make me a great senior technical writer candidate for your company include:
-
-- documentation creation/management
-
-- communication
-
-- collaboration
-
-- problem-solving
-
-My strong communication skill is key to **optimizing teamwork** and providing the **best service to customers** on all levels. 
-
 My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier”, due to my ability to multitask.
 
 In my previous position as **Senior Technical Writer** at Nutanix, I was responsible for **creating/establishing a DevOps documentation solution** – from soup-to-nuts. My creating a departmental DevOps wiki (for **18 engineers**) led to **increased productivity and engagement**.
@@ -37,27 +25,21 @@ Here's what I bring to the table ([downloadable.pdf](images/RCloud_res.pdf)):
 
 ------
 
-### PROFILE
+### PROFESSIONAL SUMMARY
 
-- Over ten years' experience researching, writing, editing, proofreading, assimilating, cataloging, and designing technical and non-technical documentation. 
-- Over seven years’ documentation project management experience.  
-- Use modern documentation approaches/tools (e.g., docs-as-code, structured authoring, markdown, GitHub, Slack, Confluence, Jira, wikis, etc.).
-- Demonstrated problem-solving skills and technical ability.
-- Seasoned and high-caliber researcher, analyst, and interviewer.
-- Excellent training, presentation, and communication skills.
-- Bilingual - Fluent Mandarin Chinese speaker.
+Innovative Technical Writer with **over 10-years' experience** researching, writing, editing, proofreading, assimilating, cataloging, and designing **technical** and **non-technical** documentation. Extensive experience using **modern documentation approaches/tools**. Extensive experience working in **Waterfall** and **Agile** SDLCs. Fluent Mandarin Chinese speaker. 
 
 ------
 ### SKILLS
 | **TECHNICAL**                | **SOFT**     |
 | :--------------------------- | :---------------- |
-| GitHub, Markdown             | Leadership        |
-| Python (beginner-level)      | Teamwork          |
-| ZOOM, MS Teams, Google Meet  | Communication     |
-| Adobe FrameMaker (with DITA) | Critical Thinking |
-| Adobe Photoshop              | Flexibility       |
-| MS Office Suite/MS Visio     | Motivation        |
-| Google Analytics             | Creativity        |
+| Technical Research                      | MS Office Suite, MS SharePoint, MS Visio |
+| Doc. Management                         | Adobe FrameMaker |
+| Docs-as-code                            | Adobe Photoshop                          |
+| GitHub, Git, Markdown                   | MadCap Flare                             |
+| Cloud Computing                         | Final Cut Pro                            |
+| Slack, BlueJeans, Cisco WebEx, MS Teams | Python (Beginner)                        |
+| Confluence, Jira, Pivotal Tracker       | C++ (Beginner) |
 
 ------
 
