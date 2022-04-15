@@ -29,9 +29,7 @@ Here's what I bring to the table ([downloadable.pdf](images/RCloud_res.pdf)):
 
 Innovative Technical Writer with **over 10-years' experience** researching, writing, editing, proofreading, assimilating, cataloging, and designing **technical** and **non-technical** documentation. Extensive experience using **modern documentation approaches/tools**. Extensive experience working in **Waterfall** and **Agile** SDLCs. Fluent Mandarin Chinese speaker. 
 
-------
-### SKILLS
-| **TECHNICAL**                | **SOFT**     |
+| **SKILLS**           |      |
 | :--------------------------- | :---------------- |
 | Technical Research                      | MS Office Suite, MS SharePoint, MS Visio |
 | Doc. Management                         | Adobe FrameMaker |
