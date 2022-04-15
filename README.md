@@ -14,7 +14,7 @@ In my previous position as **Senior Technical Writer** at Nutanix, I was respons
 
 Moved to Seattle from Beijing, China (where I've lived/worked for 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/images/rc_lor.pdf), and two years as a [College/University English instructor](https://youtu.be/H2Brkd42aIc). 
 
-Here's what I bring to the table ([downloadable.pdf](images/rcloud res.pdf)):
+Here's what I bring to the table ([downloadable.pdf](images/rcloud%res.pdf)):
 
 - [PROFILE](https://github.com/keshihua5/resume#profile)    
 - [SKILLS](https://github.com/keshihua5/resume#skills)    
