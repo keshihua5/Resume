@@ -31,13 +31,13 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 
 | **SKILLS**           |      |
 | :--------------------------- | :---------------- |
-| Technical Research                      | MS Office Suite, MS SharePoint, MS Visio |
-| Doc. Management                         | Adobe FrameMaker |
-| Docs-as-code                            | Adobe Photoshop                          |
-| GitHub, Git, Markdown                   | MadCap Flare                             |
-| Cloud Computing                         | Final Cut Pro                            |
-| Slack, BlueJeans, Cisco WebEx, MS Teams | Python (Beginner)                        |
-| Confluence, Jira, Pivotal Tracker       | C++ (Beginner) |
+| Technical Research                      | Postman, Swagger |
+| Doc. Management                         | Python (Beginner)                        |
+| Docs-as-code                            | C++ (Beginner)            |
+| GitHub, Git, Markdown                   | MadCap Flare, Wordpress                  |
+| Cloud Computing                         | Adobe FrameMaker            |
+| Slack, BlueJeans, Cisco WebEx, MS Teams | Adobe Photoshop                          |
+| Confluence, Jira, Pivotal Tracker       | MS Office Suite, MS SharePoint, MS Visio |
 
 ------
 
