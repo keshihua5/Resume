@@ -68,7 +68,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 - Gathered and addressed feedback from multiple customer sources.   
 
-**Senior Technical Writer** (Remote Contractor) **|** **ALTA IT   **
+**Senior Technical Writer** (Remote Contractor)| **ALTA IT**
 Rockville, Maryland | *November 2018  – July 2019*
 
 - **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
