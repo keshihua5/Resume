@@ -74,7 +74,7 @@ Rockville, Maryland | *November 2018  – July 2019*
 - **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
 - Reviewed various documents for grammar, spelling, punctuation, syntax, accuracy and compliance with quality standards.
 
-**Senior Technical Writer/Training Coordinator** (Remote Contractor)**|** **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
+**Senior Technical Writer/Training Coordinator** (Remote Contractor) | **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
 
 - Developed training materials in conjunction with engineering staff.
 - Coordinated, scheduled, and performed classroom training for 1,100 users at different locales.
