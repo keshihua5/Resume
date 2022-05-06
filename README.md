@@ -52,14 +52,14 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - Proactively communicated with PMs and engineers worldwide for feedback and distribution. 
 - Organize material to research and complete writing tasks. 
 
-**Senior Technical Writer**  (Remote Contractor)| **HCL** 
+**Senior Technical Writer** (Remote Contractor)| **HCL** 
 *Redmond Washington* | *April 2021* *–* *June 2021*
 
 - **Microsoft Anti-Corruption Team** – Researched, communicated, and explained anti-corruption policies and initiatives of Microsoft competitors and business partners to team members to understand and implement functional demands. 
 - Utilized exceptional writing, editing and proofreading skills to produce engaging and error-free content.          
 
-**Senior Technical Writer** (Remote Contractor) **|** **netPolarity  **
-*San Jose, California* | *February 2019* *–* *May 2020*
+**Senior Technical Writer** (Remote Contractor)| **netPolarity**
+San Jose, California | *February 2019* *–* *May 2020*
 
 - **Nutanix, Seattle** - Canaveral Team lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
 - Documented REST APIs and SDKs for internal development systems.     
