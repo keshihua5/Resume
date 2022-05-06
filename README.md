@@ -47,8 +47,21 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 
 #### UNITED STATES
 
-**Senior Technical Writer** **|** **netPolarity (Contractor)**    
-*San Jose, California* | ***February 2019* *–* *May 2020***
+**Senior Technical Writer**  (Remote Contractor)| **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
+
+- **VMware Tanzu Team** – Develop, write, edit, and maintain documentation for the Tanzu product family. 
+- Restructured, formatted, and standardized legacy documentation. 
+- Proactively communicated with PMs and engineers worldwide for feedback and distribution. 
+- Organize material to research and complete writing tasks. 
+
+**Senior Technical Writer**  (Remote Contractor)| **HCL** 
+*Redmond Washington* | *April 2021* *–* *June 2021*
+
+- **Microsoft Anti-Corruption Team** – Researched, communicated, and explained anti-corruption policies and initiatives of Microsoft competitors and business partners to team members to understand and implement functional demands. 
+- Utilized exceptional writing, editing and proofreading skills to produce engaging and error-free content.          
+
+**Senior Technical Writer** (Remote Contractor) **|** **netPolarity  **
+*San Jose, California* | *February 2019* *–* *May 2020*
 
 - **Nutanix, Seattle** - Canaveral Team lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
 - Documented REST APIs and SDKs for internal development systems.     
@@ -57,25 +70,23 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 - Gathered and addressed feedback from multiple customer sources.   
 
-**Senior Technical Writer** **|** **ALTA IT (Contractor)**       
-*Rockville, Maryland* | ***November 2018* *–* *July 2019***
+**Senior Technical Writer** (Remote Contractor) **|** **ALTA IT   **
+Rockville, Maryland | *November 2018  – July 2019*
 
 - **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
 - Reviewed various documents for grammar, spelling, punctuation, syntax, accuracy and compliance with quality standards.
 
-**Senior Technical Writer/Training Coordinator** **|** **US Tech Solutions (Contractor)**   
-*Jersey City, New Jersey* | ***August 2018* *–* *November 2018***
+**Senior Technical Writer/Training Coordinator** (Remote Contractor)**|** **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
 
 - Developed training materials in conjunction with engineering staff.
 - Coordinated, scheduled, and performed classroom training for 1,100 users at different locales.
 - Instructed how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instructed and helped resolve basic end-user troubleshooting issues.
 - Tracked end-user issues and escalated to Sr. IT staff as required.
 
-**Senior Technical Writer** **|** **Brickred Systems (Contractor)**       
-*Redmond, Washington* | ***June 2018* *–* *August 2018***
+**Senior Technical Writer**  (Remote Contractor)| **Brickred Systems**     *Redmond, Washington*| *June 2018 – August 2018*
 
 - **Microsoft Azure Stack Customer Advisory Team (CAT)** lead technical writer; central point of contact for primary source documentation.
-- Researched, wrote, edited and localized content with strong customer-focus.
+- Researched, wrote, edited and localized content with strong customer focus.
 - Designed and delivered documentation across disparate styles - from event handouts to highly technical whitepapers. Effectively conveyed customer-focused security concepts across all levels of expertise (developer, admin, novice).
 - Gathered data from SMEs to create workbooks, users guides, reference manuals, lab sheets, etc.
 - QA and regularly updated cadences for a 100+ document repository.
@@ -89,10 +100,10 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 
 - Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
 - Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
-- Data center and networking technical background; can easily interact with engineers.    
+- Datacenter and networking technical background; can easily interact with engineers.    
 - Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
 - Trained, developed, and supervised Chinese local-hire technical writers.     
-- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed. 
+- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc., as needed. 
 - Restructured, formatted, and standardized legacy documentation.    
 - Used multiple authoring tools.    
 
