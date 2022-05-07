@@ -48,7 +48,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - **VMware Tanzu Team** – Develop, write, edit, and maintain documentation for the Tanzu product family. 
 - Restructured, formatted, and standardized legacy documentation. 
 - Proactively communicated with PMs and engineers worldwide for feedback and distribution. 
-- Organize material to research and complete writing tasks. 
+- Organized material to research and complete writing tasks. 
 
 **Senior Technical Writer** (Remote Contractor) | **HCL** 
 *Redmond Washington* | *April 2021* *–* *June 2021*
