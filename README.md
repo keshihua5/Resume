@@ -45,7 +45,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 
 **Senior Technical Writer**  (Remote Contractor) | **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
 
-- **VMware Tanzu Team** – Develop, write, edit, and maintain documentation for the Tanzu product family. 
+- **VMware Tanzu Team** – Developed, wrote, edited, and maintained documentation for the Tanzu product family. 
 - Restructured, formatted, and standardized legacy documentation. 
 - Proactively communicated with PMs and engineers worldwide for feedback and distribution. 
 - Organized material to research and complete writing tasks. 
