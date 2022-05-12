@@ -6,9 +6,9 @@
 
 ------
 
-If you are looking for an **experienced** Senior Technical Writer, I am the right fit for the position. I have the ability to work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
+If you are looking for an **experienced** Senior Technical Writer, I am the right fit for the position. I can work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
 
-My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier”, due to my ability to multitask.
+My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier” due to my multitasking ability.
 
 In my previous position as **Senior Technical Writer** at Nutanix, I was responsible for **creating/establishing a DevOps documentation solution** – from soup-to-nuts. My creating a departmental DevOps wiki (for **18 engineers**) led to **increased productivity and engagement**.
 
