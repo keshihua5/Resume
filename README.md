@@ -30,8 +30,6 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 
 | **SKILLS**           |      |
 | :--------------------------- | :---------------- |
-
-
 | Technical Research                      | Postman, Swagger |
 | Doc. Management                         | Python (Beginner)                        |
 | Docs-as-code                            | C++ (Beginner)            |
@@ -60,7 +58,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - **Microsoft Anti-Corruption Team** – Researched, communicated, and explained anti-corruption policies and initiatives of Microsoft competitors and business partners to team members to understand and implement functional demands. 
 - Utilized exceptional writing, editing and proofreading skills to produce engaging and error-free content.          
 
-**Senior Technical Writer** (Remote Contractor) | **netPolarity** San Jose, California | *February 2019* *–* *May 2020*
+**Senior Technical Writer** (Remote Contractor) | **netPolarity** *San Jose, California* | *February 2019* *–* *May 2020*
 
 - **Nutanix, Seattle** - Canaveral Team lead technical writer; central point of contact for primary source documentation. Conceptualized what developer documentation should mean and drive implementation.     
 - Documented REST APIs and SDKs for internal development systems.     
@@ -69,7 +67,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 - Gathered and addressed feedback from multiple customer sources.   
 
-**Senior Technical Writer** (Remote Contractor) | **ALTA IT** Rockville, Maryland | *November 2018  – July 2019*
+**Senior Technical Writer** (Remote Contractor) | **ALTA IT** *Rockville, Maryland* | *November 2018  – July 2019*
 
 - **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
 - Reviewed various documents for grammar, spelling, punctuation, syntax, accuracy and compliance with quality standards.
