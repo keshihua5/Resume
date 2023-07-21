@@ -47,15 +47,6 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 #### UNITED STATES
 
 
-**Senior Technical Writer**  (Remote Contractor)| **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
-
-- **VMware Tanzu Team** – Develop, write, edit, and maintain documentation for the Tanzu product family. 
-- Restructured, formatted, and standardized legacy documentation. 
-- Proactively communicated with PMs and engineers worldwide for feedback and distribution. 
-- Organize material to research and complete writing tasks. 
-
-**Senior Technical Writer**  (Remote Contractor)| **HCL** 
-
 **Senior Technical Writer**  (Remote Contractor) | **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
 
 - **VMware Tanzu Team** – Developed, wrote, edited, and maintained documentation for the Tanzu product family. 
@@ -70,10 +61,6 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - **Microsoft Anti-Corruption Team** – Researched, communicated, and explained anti-corruption policies and initiatives of Microsoft competitors and business partners to team members to understand and implement functional demands. 
 - Utilized exceptional writing, editing and proofreading skills to produce engaging and error-free content.          
 
-
-**Senior Technical Writer** (Remote Contractor) **|** **netPolarity  **
-*San Jose, California* | *February 2019* *–* *May 2020*
-
 **Senior Technical Writer** (Remote Contractor) | **netPolarity**
 San Jose, California | *February 2019* *–* *May 2020*
 
@@ -84,18 +71,12 @@ San Jose, California | *February 2019* *–* *May 2020*
 - Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 - Gathered and addressed feedback from multiple customer sources.   
 
-
-**Senior Technical Writer** (Remote Contractor) **|** **ALTA IT   **
-
 **Senior Technical Writer** (Remote Contractor) | **ALTA IT**
 
 Rockville, Maryland | *November 2018  – July 2019*
 
 - **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
 - Reviewed various documents for grammar, spelling, punctuation, syntax, accuracy and compliance with quality standards.
-
-
-**Senior Technical Writer/Training Coordinator** (Remote Contractor)**|** **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
 
 **Senior Technical Writer/Training Coordinator** (Remote Contractor) | **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
 
@@ -104,9 +85,6 @@ Rockville, Maryland | *November 2018  – July 2019*
 - Coordinated, scheduled, and performed classroom training for 1,100 users at different locales.
 - Instructed how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instructed and helped resolve basic end-user troubleshooting issues.
 - Tracked end-user issues and escalated to Sr. IT staff as required.
-
-
-**Senior Technical Writer**  (Remote Contractor)| **Brickred Systems**     *Redmond, Washington*| *June 2018 – August 2018*
 
 **Senior Technical Writer**  (Remote Contractor) | **Brickred Systems**     *Redmond, Washington*| *June 2018 – August 2018*
 
