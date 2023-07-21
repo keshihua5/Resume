@@ -31,6 +31,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 | **SKILLS**           |      |
 | :--------------------------- | :---------------- |
 
+
 | Technical Research                      | Postman, Swagger |
 | Doc. Management                         | Python (Beginner)                        |
 | Docs-as-code                            | C++ (Beginner)            |
