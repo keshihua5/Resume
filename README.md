@@ -6,9 +6,10 @@
 
 ------
 
-If you are looking for an **experienced** Senior Technical Writer, I am the right fit for the position. I have the ability to work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
+If you are looking for an **experienced** Senior Technical Writer, I am the right fit for the position. I can work in **fast-paced**, **demanding environments**, and the ability to **adapt to changing priorities**.
 
 My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier”, due to my ability to multitask.
+
 
 Moved to Seattle from Beijing, China (where I've lived/worked for 14.5 years). Worked 12.5 years as a [Senior Technical Writer](https://github.com/keshihua5/resume/blob/master/images/rc_lor.pdf), and two years as a [College/University English instructor](https://youtu.be/H2Brkd42aIc). 
 
@@ -29,6 +30,7 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 
 | **SKILLS**           |      |
 | :--------------------------- | :---------------- |
+
 | Technical Research                      | Postman, Swagger |
 | Doc. Management                         | Python (Beginner)                        |
 | Docs-as-code                            | C++ (Beginner)            |
@@ -37,11 +39,22 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 | Slack, BlueJeans, Cisco WebEx, MS Teams | Adobe Photoshop                          |
 | Confluence, Jira, Pivotal Tracker       | MS Office Suite, MS SharePoint, MS Visio |
 
+
 ------
 
 ### EXPERIENCE
 
 #### UNITED STATES
+
+
+**Senior Technical Writer**  (Remote Contractor)| **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
+
+- **VMware Tanzu Team** – Develop, write, edit, and maintain documentation for the Tanzu product family. 
+- Restructured, formatted, and standardized legacy documentation. 
+- Proactively communicated with PMs and engineers worldwide for feedback and distribution. 
+- Organize material to research and complete writing tasks. 
+
+**Senior Technical Writer**  (Remote Contractor)| **HCL** 
 
 **Senior Technical Writer**  (Remote Contractor) | **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
 
@@ -51,10 +64,15 @@ Innovative Technical Writer with **over 10-years' experience** researching, writ
 - Organized material to research and complete writing tasks. 
 
 **Senior Technical Writer** (Remote Contractor) | **HCL** 
+
 *Redmond Washington* | *April 2021* *–* *June 2021*
 
 - **Microsoft Anti-Corruption Team** – Researched, communicated, and explained anti-corruption policies and initiatives of Microsoft competitors and business partners to team members to understand and implement functional demands. 
 - Utilized exceptional writing, editing and proofreading skills to produce engaging and error-free content.          
+
+
+**Senior Technical Writer** (Remote Contractor) **|** **netPolarity  **
+*San Jose, California* | *February 2019* *–* *May 2020*
 
 **Senior Technical Writer** (Remote Contractor) | **netPolarity**
 San Jose, California | *February 2019* *–* *May 2020*
@@ -66,20 +84,32 @@ San Jose, California | *February 2019* *–* *May 2020*
 - Gathered information from team meetings, product specifications, interviews with subject-matter experts, and direct interaction with systems.    
 - Gathered and addressed feedback from multiple customer sources.   
 
+
+**Senior Technical Writer** (Remote Contractor) **|** **ALTA IT   **
+
 **Senior Technical Writer** (Remote Contractor) | **ALTA IT**
+
 Rockville, Maryland | *November 2018  – July 2019*
 
 - **ManTech Govt Contractor** – Edited multiple documents for Application Cloud Migration Teams on an Air Force contract to refactor monolithic outdated applications for migration into both AWS and Azure environments.
 - Reviewed various documents for grammar, spelling, punctuation, syntax, accuracy and compliance with quality standards.
 
+
+**Senior Technical Writer/Training Coordinator** (Remote Contractor)**|** **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
+
 **Senior Technical Writer/Training Coordinator** (Remote Contractor) | **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
+
 
 - Developed training materials in conjunction with engineering staff.
 - Coordinated, scheduled, and performed classroom training for 1,100 users at different locales.
 - Instructed how to install and use Multifactor Authentication (MFA) and Mobile Device Maintenance (MDM) on end devices. Instructed and helped resolve basic end-user troubleshooting issues.
 - Tracked end-user issues and escalated to Sr. IT staff as required.
 
+
+**Senior Technical Writer**  (Remote Contractor)| **Brickred Systems**     *Redmond, Washington*| *June 2018 – August 2018*
+
 **Senior Technical Writer**  (Remote Contractor) | **Brickred Systems**     *Redmond, Washington*| *June 2018 – August 2018*
+
 
 - **Microsoft Azure Stack Customer Advisory Team (CAT)** lead technical writer; central point of contact for primary source documentation.
 - Researched, wrote, edited and localized content with strong customer focus.
@@ -98,10 +128,10 @@ Rockville, Maryland | *November 2018  – July 2019*
 
 - Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
 - Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
-- Data center and networking technical background; can easily interact with engineers.    
+- Datacenter and networking technical background; can easily interact with engineers.    
 - Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
 - Trained, developed, and supervised Chinese local-hire technical writers.     
-- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc. as needed. 
+- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc., as needed. 
 - Restructured, formatted, and standardized legacy documentation.    
 - Used multiple authoring tools.    
 
