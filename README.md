@@ -51,13 +51,20 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)** *Beijing, China* | *April* *2004* *–* *October 2016*
 
 - Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
+
 - Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
+
 - Datacenter and networking technical background; can easily interact with engineers.    
+
 - Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
+
 - Trained, developed, and supervised Chinese local-hire technical writers.     
+
 - Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc., as needed. 
+
 - Restructured, formatted, and standardized legacy documentation.    
-- **Tools:** Git, Adobe FrameMaker, XML, HTML.    
+
+  **Tools:** Git, Adobe FrameMaker, XML, HTML.    
 
 ### U.S. Work Experience
 
@@ -127,18 +134,25 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 
 
 - **Quest Media** - Developed comprehensive training materials in collaboration with engineering teams.
+
 - Led MFA and MDM training sessions, successfully coordinating and scheduling for over 1,100 users across various locations.
+
 - Monitored and resolved end-user issues, escalating complex cases to senior IT staff effectively
-- **Tools:** MS Office Suite, MS SharePoint, MS Visio.
+
+  **Tools:** MS Office Suite, MS SharePoint, MS Visio.
 
 **Senior Technical Writer**  (On Site) | **Brickred Systems** *Redmond, Washington*| *June 2018 – August 2018*
 
 
 - **Microsoft Azure Stack Customer Advisory Team (CAT)** -  Central point of contact for primary source documentation.
+
 - Authored, edited, and localized content to align with customer-centric values.
+
 - Produced a variety of documentation formats, such as lab sheets, workbooks, reference manuals, and user guides.
+
 - Ensured security concepts were understandable to all user levels by providing a variety of documentation styles, from event handouts to in-depth technical whitepapers.
-- **Tools:** MS Office Suite, MS SharePoint, MS Visio.
+
+  **Tools:** MS Office Suite, MS SharePoint, MS Visio.
 
 ------
 
@@ -147,6 +161,5 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 ... When I’m not trying to beat a deadline, I dabble in photography and videography:
 
 - ["A Conversation"](https://vimeo.com/216641592/75255e335f)
-- [Yu Gong Yi Shan](https://youtu.be/RHiEyX-XFSg)  
+- [Yu Gong Yi Shan: Marcus Miller](https://youtu.be/RHiEyX-XFSg)  
 - [Seattle Art Museum: Kiji Festival](https://photos.google.com/share/AF1QipMcUsvjHf77aqac2PyIQlqXfO3OxdSu2nRquaGH3i5me5L1L53XQHHtWzbKl_NdRw?key=TVdBcEdsTmFoR0ItczVrR2JQM1N5NWItR0N6Tl9B)
-
