@@ -21,12 +21,11 @@ My professional background allows me to research, write, edit, proofread, assimi
 
 Here's what I bring to the table ([downloadable.pdf](images/rcloudres.pdf)):
 
-- [[Professional Summary]](https://github.com/keshihua5/resume#professionalsummary)   
-- [SKILLS](https://github.com/keshihua5/resume#skills)    
-- [EXPERIENCE]( https://github.com/keshihua5/resume#experience)    
-  - [UNITED STATES](https://github.com/keshihua5/resume#united-states)
-  - [CHINA](https://github.com/keshihua5/resume#china)     
-- [OTHER STUFF](https://github.com/keshihua5/resume#other-stuff)  
+- [Professional Summary](https://github.com/keshihua5/resume#professional-summary)   
+- [Skills](https://github.com/keshihua5/resume#skills)    
+- [International Experience]( https://github.com/keshihua5/resume#experience)
+- [International Experience]( https://github.com/keshihua5/resume#experience)
+- [Other Stuff](https://github.com/keshihua5/resume#other-stuff)  
 
 ------
 
