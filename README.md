@@ -21,7 +21,7 @@ My professional background allows me to research, write, edit, proofread, assimi
 
 Here's what I bring to the table ([downloadable.pdf](images/rcloudres.pdf)):
 
-- [Professional Summary] (https://github.com/keshihua5/resume#professional-summary)
+- [Professional Summary](https://github.com/keshihua5/resume#professional-summary)
 - [Skills](https://github.com/keshihua5/resume#skills)    
 - [International Work Experience]( https://github.com/keshihua5/resume#international-work-experience)
 - [U.S. Work Experience]( https://github.com/keshihua5/resume#u.s.-work-experience)
