@@ -61,7 +61,7 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 
 ### U.S. Work Experience
 
-**Senior Technical Writer** **- Mandarin Speaker**  (Remote Contractor) | **Infinite** *Rockville, Maryland* | *January 2023* *–* June 2023*
+**Senior Technical Writer** **- Mandarin Speaker**  (Remote Contractor) | **Infinite** *Rockville, Maryland* | *January 2023 – June 2023*
 
 - **IBM/Bytedance (TikTok) USTS Team** - Developed comprehensive SOP documents for Bytedance's USTS Engineering and Controls Team.
 - Documented and refined technical workflows to enhance operational efficiency.
