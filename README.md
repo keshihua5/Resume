@@ -92,7 +92,7 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 
 **Senior Technical Writer** (Remote Contractor) | **netPolarity** *San Jose, California* | *February 2019* *–* *May 2020*
 
-- **Nutanix, Seattle** - Conceptualized and implemented a developer documentation strategy. Collected information from team meetings, product specifications, SME interviews, and direct system/application interaction.
+- **Nutanix (Seattle) Canaveral Team** - Conceptualized and implemented a developer documentation strategy. Collected information from team meetings, product specifications, SME interviews, and direct system/application interaction.
 - Primary documentation point of contact for an 18-member engineering team.
 - Documented REST APIs and SDKs for internal development systems. Created team wiki.
 - Implemented documentation systems and processes. Created and developed Canaveral DevOps runbook.
