@@ -19,7 +19,7 @@ Moved to Seattle from Beijing, China (where I've lived/worked for 14.5 years). W
 
 My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier”, due to my ability to multitask. 
 
-Here's what I bring to the table ([downloadable.pdf](images/rcloudres.pdf)):
+Here's what I bring to the table ([downloadable.pdf](images/rcloudresume.pdf)):
 
 - [Professional Summary](https://github.com/keshihua5/resume#professional-summary)
 - [Skills](https://github.com/keshihua5/resume#skills)    
