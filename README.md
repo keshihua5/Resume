@@ -48,7 +48,8 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 
 ### International Work Experience
 
-**Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)** *Beijing, China* | *April* *2004* *–* *October 2016*
+**Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)** *Beijing, China* |
+ *April* *2004* *–* *October 2016*
 
 - Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
 - Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
@@ -61,7 +62,8 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 
 ### U.S. Work Experience
 
-**Senior Technical Writer** **- Mandarin Speaker**  (Remote Contractor) | **Infinite** *Rockville, Maryland* | *January 2023* *–* June 2023*
+**Senior Technical Writer** **- Mandarin Speaker**  (Remote Contractor) | **Infinite** *Rockville, Maryland* |
+ *January 2023* *–* June 2023*
 
 - **IBM/Bytedance (TikTok) USTS Team** - Developed comprehensive SOP documents for Bytedance's USTS Engineering and Controls Team.
 - Documented and refined technical workflows to enhance operational efficiency.
@@ -69,7 +71,8 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 - Collaborated with software engineers and product managers to validate technical documentation's accuracy and completeness.
 - **Tools:** Lark Suite, Markdown, HTML.
 
-**Senior Technical Writer**  (Remote Contractor) | **Bárd Na NGleann** *Ballingeary, County Cork, Ireland* | *May 2022* *–* *February 2023*
+**Senior Technical Writer**  (Remote Contractor) | **Bárd Na NGleann** *Ballingeary, County Cork, Ireland* |
+ *May 2022* *–* *February 2023*
 
 - **Google Analytics 4 (GA4) Help Center Team** - Prepared, rewrote, and edited GA4 help center and API documentation, achieving a 40% increase in user engagement and a 15% decrease in support tickets.
 - Implemented stringent quality control measures for internal and external documentation, ensuring a 98% accuracy rate.
@@ -77,20 +80,23 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 - Worked in tandem with writers to guide editorial improvements effectively.
 - **Tools:** Google Docs, Connect Composer, Buganizer, Cider, Git, Markdown, HTML. 
 
-**Senior Technical Writer**  (Remote Contractor) | **US Tech Solutions** *San Jose, California* | *October 2021* *–* *February 2022*
+**Senior Technical Writer**  (Remote Contractor) | **US Tech Solutions** *San Jose, California* |
+*October 2021* *–* *February 2022*
 
 - **VMware Tanzu Team** – Developed, wrote, edited, and maintained documentation for the Tanzu product family. 
 - Standardized legacy documents while collaborating with PMs and engineers for feedback.
 - Organized material for research and completed writing tasks.
 - **Tools:** Pivotal Tracker, Git/GitHub, HTML, Markdown, Confluence, Jira.
 
-**Senior Technical Writer** (Remote Contractor) | **HCL** *Redmond, Washington* | *April 2021* *–* *June 2021*
+**Senior Technical Writer** (Remote Contractor) | **HCL** *Redmond, Washington* | 
+*April 2021* *–* *June 2021*
 
 - **Microsoft Anti-Corruption Team** – Researched, communicated, and explained anti-corruption policies and initiatives of Microsoft competitors and business partners to team members to understand and implement functional demands. 
 - Produced high-quality content with exceptional writing, editing, and proofreading skills.
 - **Tools:** MS Office Suite, MS SharePoint, MS Visio          
 
-**Senior Technical Writer** (Remote Contractor) | **netPolarity** *San Jose, California* | *February 2019* *–* *May 2020*
+**Senior Technical Writer** (Remote Contractor) | **netPolarity** *San Jose, California* | 
+*February 2019* *–* *May 2020*
 
 - **Nutanix (Seattle) Canaveral Team** - Conceptualized and implemented a developer documentation strategy. Collected information from team meetings, product specifications, SME interviews, and direct system/application interaction.
 - Primary documentation point of contact for an 18-member engineering team.
@@ -98,13 +104,14 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 - Implemented documentation systems and processes. Created and developed Canaveral DevOps runbook.
 - **Tools:** Git/GitHub, Google docs, Confluence, Jira, Markdown, HTML.  
 
-**Senior Technical Writer** (Remote Contractor) | **ALTA IT** *Rockville, Maryland* | *November 2018  – July 2019*
+**Senior Technical Writer** (Remote Contractor) | **ALTA IT** *Rockville, Maryland* | 
+*November 2018  – July 2019*
 
 - **ManTech Govt Contractor** – Edited critical documents for cloud migration projects involving AWS and Azure platforms under a high-profile Air Force contract.
 - Ensured all documentation met stringent grammatical, syntactical, and compliance standards.
 - **Tools:** MS Office Suite, MS SharePoint, MS Visio.
 
-**Senior Technical Writer/Training Coordinator** (Remote Contractor) | **US Tech Solutions**  *Jersey City, New Jersey* | August 2018 *–* *November 2018*
+**Senior Technical Writer/Training Coordinator** (Remote Contractor) | **US Tech Solutions**  *Jersey City, New Jersey* | *August 2018 – November 2018*
 
 
 - **Quest Media** - Developed comprehensive training materials in collaboration with engineering teams.
@@ -112,7 +119,8 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 - Monitored and resolved end-user issues, escalating complex cases to senior IT staff effectively
 - **Tools:** MS Office Suite, MS SharePoint, MS Visio.
 
-**Senior Technical Writer**  (On Site) | **Brickred Systems** *Redmond, Washington*| *June 2018 – August 2018*
+**Senior Technical Writer**  (On Site) | **Brickred Systems** *Redmond, Washington*| 
+*June 2018 – August 2018*
 
 
 - **Microsoft Azure Stack Customer Advisory Team (CAT)** -  Central point of contact for primary source documentation.
