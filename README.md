@@ -96,7 +96,7 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 - Primary documentation point of contact for an 18-member engineering team.
 - Documented REST APIs and SDKs for internal development systems. Created team wiki.
 - Implemented documentation systems and processes. Created and developed Canaveral DevOps runbook.
-- **Tools:** Git/GitHub, Google docs, Markdown, HTML.  
+- **Tools:** Git/GitHub, Google docs, Confluence, Jira, Markdown, HTML.  
 
 **Senior Technical Writer** (Remote Contractor) | **ALTA IT** *Rockville, Maryland* | *November 2018  – July 2019*
 
