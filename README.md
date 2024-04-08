@@ -51,14 +51,11 @@ Innovative Technical Writer with **over 15-years' experience** researching, writ
 **Senior Technical Writer** **| BEA Systems/Oracle Software R&D Center (Beijing)** *Beijing, China* |
  *April* *2004* *–* *October 2016*
 
-- Developed, wrote, edited, and maintained documentation for the Oracle Tuxedo product family. Target audience included end-users, group administrators, and developers.   
-- Wrote REST API reference documentation for C, C#, C++, and Java developers and system admins from functional specs and SME interviews.     
-- Datacenter and networking technical background; can easily interact with engineers.    
-- Proactively collaborated with Oracle engineers in Beijing and New Jersey, Bangalore doc-infrastructure, Quality Assurance, and customers to improve documentation usability.     
-- Trained, developed, and supervised Chinese local-hire technical writers.     
-- Developed auxiliary documentation, such as Web pages, help systems, sales training, product descriptions, etc., as needed. 
-- Restructured, formatted, and standardized legacy documentation.    
-- **Tools:** Git, Adobe FrameMaker, XML, HTML.    
+- Developed and maintained a wide variety of documentation for Oracle Tuxedo product family, leading to significant enhancements in the quality and accessibility of legacy documentation.
+- Authored/edited platform, SOAP, and REST API reference guides and SOPs by synthesizing complex functional specifications and SME insights.
+- Drove collaborative efforts with global engineering teams, QA, and customers to enhance usability of documentation.
+- Served as a mentor and team leader for three technical writers employed locally, raising the bar for technical communication on the team.
+- **Tools:** Git, Adobe FrameMaker, XML, HTML. 
 
 ### U.S. Work Experience
 
