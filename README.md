@@ -12,10 +12,10 @@ Moved to Seattle from Beijing, China (where I've lived/worked for 14.5 years). W
 
  The skills and qualifications that make me a great senior technicalwriter candidate for your company include:
 
-• documentation creation/management
-• communication
-• collaboration
-• problem-solving .
+- documentation creation/management
+- communication
+- collaboration
+- problem-solving
 
 My professional background allows me to research, write, edit, proofread, assimilate, catalog, and design both **technical** and **non-technical** documentation. I consider myself a “technical writing universal soldier”, due to my ability to multitask. 
 
